@@ -40,3 +40,15 @@ table {
   tr:nth-child(even) {
     background-color: #fffb00;
   }
+.VILLAIN:hover {
+background-color: rgb(70, 75, 8);
+color: rgb(255, 0, 157);
+border-style: double;
+border-left: 10px solid rgb(84, 13, 75);
+}
+.COMEDIAN:hover {
+background-color: rgb(98, 255, 0);
+color: rgb(49, 15, 87);
+border-style: double;
+border-left: 10px solid rgb(10, 72, 80);
+}
