@@ -1,0 +1,27 @@
+.speech
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 15px;
+}
+.direction
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 12px;
+    background-color: rgb(85, 0, 255);
+}
+.direction:hover {
+    background-color: rgb(113, 153, 94);
+    color: rgb(193, 39, 39);
+  }
+.VILLAIN
+{   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(62, 27, 95);
+}
+.COMEDIAN
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(99, 49, 66);
+}
